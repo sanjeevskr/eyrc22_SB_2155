@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/eyantra/AND_GATE/simulation/modelsim
+vAND_GATE
+Z1 !s110 1663259489
+!i10b 1
+!s100 @1mba1HTQdBR;`S0kVb6^2
+IAK5@mj@YaSbDJ47>=KSzj0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1663253204
+8D:/eyantra/AND_GATE/AND_GATE.v
+FD:/eyantra/AND_GATE/AND_GATE.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1663259489.000000
+!s107 D:/eyantra/AND_GATE/AND_GATE.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/AND_GATE|D:/eyantra/AND_GATE/AND_GATE.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/eyantra/AND_GATE
+Z7 tCvgOpt 0
+n@a@n@d_@g@a@t@e
+vAnd_Gate_Test_Bench
+R1
+!i10b 1
+!s100 X273l1j07NK^?@D20T4IU1
+IRE6_hlY^?DG3;><J45DmH2
+R2
+R0
+w1663255264
+8D:/eyantra/AND_GATE/And_Gate_Test_Bench.v
+FD:/eyantra/AND_GATE/And_Gate_Test_Bench.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/eyantra/AND_GATE/And_Gate_Test_Bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/AND_GATE|D:/eyantra/AND_GATE/And_Gate_Test_Bench.v|
+!i113 1
+R5
+R6
+R7
+n@and_@gate_@test_@bench

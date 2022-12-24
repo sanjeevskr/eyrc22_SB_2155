@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/eyantra/AND_GATE/simulation/qsim
+vAND_GATE
+Z0 !s110 1664299928
+!i10b 1
+!s100 EJ;Vg80W35gdUmlCn?2Z_1
+I?]VVTk1f:HB91K>k6mZLC0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/eyantra/SB#2155_Task0/AND_GATE/simulation/qsim
+Z3 w1664299924
+Z4 8first_project.vo
+Z5 Ffirst_project.vo
+L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1664299928.000000
+Z8 !s107 first_project.vo|
+Z9 !s90 -work|work|first_project.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@n@d_@g@a@t@e
+vAND_GATE_vlg_vec_tst
+R0
+!i10b 1
+!s100 eOh1o[;_HL0a>Jf]5^Z@R1
+I?>c[]n[CnC^T5L2P45XmW0
+R1
+R2
+R3
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R10
+R11
+n@a@n@d_@g@a@t@e_vlg_vec_tst
+vhard_block
+R0
+!i10b 1
+!s100 8njLGag8ZL3HHoNaKekRC1
+ID[7ISF;KU[J3i7UPak4J:3
+R1
+R2
+R3
+R4
+R5
+L0 122
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
