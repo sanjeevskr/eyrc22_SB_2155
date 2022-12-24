@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/eyantra/task2_b/uart/simulation/modelsim
+vtb
+Z1 !s110 1667709893
+!i10b 1
+!s100 L06bkPXJFeDB@ELTlH63M1
+I_M@eJ1Ji;[76h9B1XQ?nh0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1628183972
+8D:/eyantra/task2_b/uart/simulation/modelsim/tb.v
+FD:/eyantra/task2_b/uart/simulation/modelsim/tb.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1667709893.000000
+!s107 D:/eyantra/task2_b/uart/simulation/modelsim/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/task2_b/uart/simulation/modelsim|D:/eyantra/task2_b/uart/simulation/modelsim/tb.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/eyantra/task2_b/uart/simulation/modelsim
+Z6 tCvgOpt 0
+vuart
+R1
+!i10b 1
+!s100 a8=g:ND=^49;F98LLRCmI0
+I`@=@<J_YjbVeX>2MUA:M12
+R2
+R0
+w1667709855
+8D:/eyantra/task2_b/uart/uart.v
+FD:/eyantra/task2_b/uart/uart.v
+L0 20
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/eyantra/task2_b/uart/uart.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/task2_b/uart|D:/eyantra/task2_b/uart/uart.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/eyantra/task2_b/uart
+R6
