@@ -1,0 +1,5 @@
+
+State Machine - |adc_control|adc_sck_temp
+Name adc_sck_temp.0001 
+adc_sck_temp.0000 0 
+adc_sck_temp.0001 1 
