@@ -1,0 +1,261 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "done",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[0]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[1]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[2]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[3]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[4]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[5]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[6]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[7]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[8]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[9]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[10]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[11]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[12]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[13]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[14]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[15]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[16]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[17]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[18]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[19]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[20]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[21]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[22]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[23]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[24]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[25]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[26]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[27]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[28]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[29]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[30]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[31]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[32]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[33]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[34]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[35]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[36]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[37]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[38]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[39]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[40]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[41]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[42]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[43]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[44]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[45]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[46]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[47]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[48]",
+					"strict" : false
+				},
+				{
+					"name" : "final_path[49]",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "e_node[0]",
+					"strict" : false
+				},
+				{
+					"name" : "e_node[1]",
+					"strict" : false
+				},
+				{
+					"name" : "e_node[2]",
+					"strict" : false
+				},
+				{
+					"name" : "e_node[3]",
+					"strict" : false
+				},
+				{
+					"name" : "e_node[4]",
+					"strict" : false
+				},
+				{
+					"name" : "s_node[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_node[3]",
+					"strict" : false
+				},
+				{
+					"name" : "s_node[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_node[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_node[4]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

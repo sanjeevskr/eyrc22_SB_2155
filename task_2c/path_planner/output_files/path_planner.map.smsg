@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at path_planner.v(276): always construct contains both blocking and non-blocking assignments File: D:/eyantra/task2_c/path_planner/path_planner.v Line: 276
