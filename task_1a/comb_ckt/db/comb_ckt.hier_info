@@ -1,0 +1,86 @@
+|comb_ckt_verilog
+D1 => SYNTHESIZED_WIRE_18.IN0
+D2 => SYNTHESIZED_WIRE_17.IN1
+D3 => SYNTHESIZED_WIRE_17.IN0
+D3 => SYNTHESIZED_WIRE_18.IN1
+D4 => SYNTHESIZED_WIRE_14.IN1
+D5 => SYNTHESIZED_WIRE_18.IN1
+D5 => SYNTHESIZED_WIRE_14.IN0
+D6 => SYNTHESIZED_WIRE_17.IN1
+D6 => SYNTHESIZED_WIRE_14.IN1
+D7 => SYNTHESIZED_WIRE_17.IN1
+D7 => SYNTHESIZED_WIRE_18.IN1
+D7 => SYNTHESIZED_WIRE_14.IN1
+D0 => ~NO_FANOUT~
+out <= Mux_2_to_1:b2v_inst2.y
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst
+I3 => I3.IN1
+I2 => I2.IN1
+I1 => I1.IN1
+I0 => I0.IN1
+S1 => S1.IN1
+S0 => S0.IN2
+out <= Mux_2_to_1:m3.y
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst|Mux_2_to_1:m1
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst|Mux_2_to_1:m2
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst|Mux_2_to_1:m3
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst1
+I3 => I3.IN1
+I2 => I2.IN1
+I1 => I1.IN1
+I0 => I0.IN1
+S1 => S1.IN1
+S0 => S0.IN2
+out <= Mux_2_to_1:m3.y
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst1|Mux_2_to_1:m1
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst1|Mux_2_to_1:m2
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_4_to_1:b2v_inst1|Mux_2_to_1:m3
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|comb_ckt_verilog|Mux_2_to_1:b2v_inst2
+i1 => y.DATAB
+i0 => y.DATAA
+s0 => y.OUTPUTSELECT
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+

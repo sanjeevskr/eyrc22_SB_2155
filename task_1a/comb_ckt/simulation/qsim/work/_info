@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Balaji/Desktop/e yantra proj/comb_ckt/simulation/qsim
+vhard_block
+Z1 !s110 1664627508
+!i10b 1
+!s100 LZXVlSdUc5PfNWgHVYZaG1
+IXbz7S:hAWba^=@6Z:9^TT2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1664627506
+Z4 8comb_ckt.vo
+Z5 Fcomb_ckt.vo
+L0 196
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1664627508.000000
+Z8 !s107 comb_ckt.vo|
+Z9 !s90 -work|work|comb_ckt.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vMux_2_to_1
+!s110 1664626734
+!i10b 1
+!s100 OaVVUT>[F[3U^W<?9TY`11
+ITg;[k>Ood5NDO@_EGd<9A0
+R2
+R0
+w1664626732
+R4
+R5
+Z12 L0 32
+R6
+r1
+!s85 0
+31
+!s108 1664626734.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@mux_2_to_1
+vMux_4_to_1
+R1
+!i10b 1
+!s100 J3H2maZJW=Na<58>SF@HY2
+IKCPfn`DZZz3FeY@8<Tc`L0
+R2
+R0
+R3
+R4
+R5
+R12
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@mux_4_to_1
+vMux_4_to_1_vlg_vec_tst
+R1
+!i10b 1
+!s100 BClYII]PM8YJOo8;H`cdO2
+IK4[idom]3^8AQ:fV[F]G^2
+R2
+R0
+w1664627504
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R10
+R11
+n@mux_4_to_1_vlg_vec_tst

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/eyantra/task1_b/fsm/simulation/modelsim
+vfsm
+Z1 !s110 1664854755
+!i10b 1
+!s100 lk5l;7c0PNLmW04T`8Hi_2
+I]jF:eH?LLYc[TVPUR8Z3m1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1664854671
+8D:/eyantra/task1_b/fsm/fsm.v
+FD:/eyantra/task1_b/fsm/fsm.v
+L0 21
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1664854754.000000
+!s107 D:/eyantra/task1_b/fsm/fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/task1_b/fsm|D:/eyantra/task1_b/fsm/fsm.v|
+!i113 1
+Z4 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/eyantra/task1_b/fsm
+Z5 tCvgOpt 0
+vfsm_tb
+R1
+!i10b 1
+!s100 NCIonPHOFI8=QMVUK;g^R3
+I>L3nA`N:4mR[J1`DF34Rd1
+R2
+R0
+w1660118900
+8D:/eyantra/task1_b/fsm/simulation/modelsim/fsm_tb.v
+FD:/eyantra/task1_b/fsm/simulation/modelsim/fsm_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1664854755.000000
+!s107 D:/eyantra/task1_b/fsm/simulation/modelsim/fsm_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/eyantra/task1_b/fsm/simulation/modelsim|D:/eyantra/task1_b/fsm/simulation/modelsim/fsm_tb.v|
+!i113 1
+R4
+!s92 -vlog01compat -work work +incdir+D:/eyantra/task1_b/fsm/simulation/modelsim
+R5
