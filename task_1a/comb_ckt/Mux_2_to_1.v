@@ -9,7 +9,7 @@ Recommended Quartus Version : 19.1
 The submitted project file must be 19.1 compatible as the evaluation will be done on Quartus Prime Lite 19.1.
 
 Warning: The error due to compatibility will not be entertained.
-			Do not make any changes to Test_Bench_Vector.txt file. Violating will result into Disqualification.
+Do not make any changes to Test_Bench_Vector.txt file. Violating will result into Disqualification.
 -------------------
 */
 
