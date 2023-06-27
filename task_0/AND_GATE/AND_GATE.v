@@ -4,6 +4,6 @@ module AND_GATE
 	output C          // defining output of AND gate
 );
 
-assign C = A | B;   // Logic implementation
+assign C = A | B;   // Logic implementations
 endmodule
 
